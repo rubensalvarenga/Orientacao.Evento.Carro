@@ -1,0 +1,15 @@
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.AssemblyInfo.cs
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\bin\Debug\net6.0\Orientacao.Evento.Carro.exe
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\bin\Debug\net6.0\Orientacao.Evento.Carro.deps.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\bin\Debug\net6.0\Orientacao.Evento.Carro.runtimeconfig.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\bin\Debug\net6.0\Orientacao.Evento.Carro.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\bin\Debug\net6.0\Orientacao.Evento.Carro.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\refint\Orientacao.Evento.Carro.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\Orientacao.Evento.Carro.genruntimeconfig.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Evento.Carro\obj\Debug\net6.0\ref\Orientacao.Evento.Carro.dll
